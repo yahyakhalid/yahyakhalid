@@ -8,4 +8,6 @@
   <a href="https://apps.apple.com/iq/developer/akkadx-llc/id1896740908"><img src="https://img.shields.io/badge/App_Store-0d1117?style=for-the-badge&logo=apple&logoColor=22D16B" alt="App Store"></a>
   <a href="https://play.google.com/store/apps/developer?id=akkadX+LLC"><img src="https://img.shields.io/badge/Google_Play-0d1117?style=for-the-badge&logo=googleplay&logoColor=22D16B" alt="Google Play"></a>
   <a href="https://github.com/akkadX"><img src="https://img.shields.io/badge/@akkadX-0d1117?style=for-the-badge&logo=github&logoColor=22D16B" alt="@akkadX"></a>
+  <a href="https://www.facebook.com/akkadx"><img src="https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=22D16B" alt="Facebook"></a>
+  <a href="https://www.instagram.com/akkadx.official"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=22D16B" alt="Instagram"></a>
 </p>
