@@ -39,6 +39,9 @@ for el in root:
                 drop = False
 
 inner = "".join(ET.tostring(c, encoding="unicode") for c in root)
-nested = f'<svg class="city" x="40" y="360" width="1200" height="778" viewBox="0 20 1280 830">{inner}</svg>'
-out = open(template, encoding="utf-8").read().replace("<!--CITY-->", nested)
+tpl = open(template, encoding="utf-8").read()
+m = re.search(r"<!--CITY(?::(\d+))?-->", tpl)
+y = m.group(1) or "360"
+nested = f'<svg class="city" x="40" y="{y}" width="1200" height="778" viewBox="0 20 1280 830">{inner}</svg>'
+out = tpl[:m.start()] + nested + tpl[m.end():]
 open(dst, "w", encoding="utf-8").write(out)
