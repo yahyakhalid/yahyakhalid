@@ -6,7 +6,7 @@ Founder of **[akkadX](https://akkadx.com)**, a software engineering & product st
 
 مؤسس **akkadX**: استوديو هندسة برمجيات ومنتجات، من العراق إلى العالم.
 
-[akkadx.com](https://akkadx.com) · [hi@akkadx.com](mailto:hi@akkadx.com) · [watsy.me](https://watsy.me)
+[akkadx.com](https://akkadx.com) · [hi@akkadx.com](mailto:hi@akkadx.com) · [watsy.me](https://watsy.me) · [github.com/akkadX](https://github.com/akkadX)
 
 </div>
 
